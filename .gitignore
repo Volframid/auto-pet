@@ -1,0 +1,13 @@
+/config.json
+/module.config.json
+/logs/
+/LOCAL_UPDATES.md
+*.tmp
+*.bak
+
+LOCAL_UPDATES.md
+config.json
+module.config.json
+logs/
+*.log
+node_modules/

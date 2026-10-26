@@ -1,0 +1,18 @@
+{
+  "disableAutoUpdate": false,
+  "name": "auto-pet",
+  "author": "CEM",
+  "description": "Pet Companion: per-character pet memory, automatic summon, learned buffs every 3:30 and pet care.",
+  "options": {
+    "settingsVersion": 4,
+    "settingsFile": "config.json",
+    "settingsMigrator": "settings_migrator.js",
+    "cliName": "Pet Companion",
+    "guiName": "Pet Companion"
+  },
+  "servers": [
+    "https://raw.githubusercontent.com/Volframid/auto-pet/main/"
+  ],
+  "version": "1.0.0",
+  "supportUrl": "https://github.com/Volframid/auto-pet/issues"
+}
